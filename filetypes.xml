@@ -11,6 +11,7 @@
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
